@@ -1,5 +1,5 @@
 {
-  "name": "range-trainer-dev",
+  "name": "holdem-trainer-dev",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@auth0/nextjs-auth0": "^1.9.0",
+    "mongoose": "^6.3.6",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",
